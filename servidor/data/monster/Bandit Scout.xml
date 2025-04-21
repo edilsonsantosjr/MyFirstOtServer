@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<monster name="Bandit Scout" nameDescription="an Bandit Scout" race="blood" experience="100000000" speed="200" manacost="0">
+<monster name="Bandit Scout" nameDescription="an Bandit Scout" race="blood" experience="700" speed="200" manacost="0">
 	<health now="250" max="250"/>
 	<look type="386" head="1" body="1" legs="1" feet="1" addons="0" corpse="12838"/>
 	<targetchange interval="5000" chance="8"/>

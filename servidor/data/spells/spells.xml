@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <spells>
+	<spell name="Big Regeneration" script="spells/LvL250/big_regeneration.lua" />
+	<spell name="Regeneration" script="spells/inicial/regeneration.lua" />
 	<!-- Spells Iniciais -->
 	<instant name="Aura" words="aura" lvl="1" mana="10" aggressive="0" selftarget="1" exhaustion="1000" needlearn="0" event="script" value="Iniciais/aura.lua">
 	</instant>

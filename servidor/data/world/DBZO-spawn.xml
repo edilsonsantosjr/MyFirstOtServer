@@ -16432,56 +16432,36 @@
 		<monster name="Hell Janemba Teach" x="0" y="0" z="10" spawntime="30" />
 	</spawn>
 	<spawn centerx="704" centery="612" centerz="10" radius="1">
-		<npc name="Voc Bills" x="0" y="1" z="10" spawntime="60" />
-	</spawn>
-	<spawn centerx="709" centery="612" centerz="10" radius="1">
 		<npc name="Voc Shenron" x="0" y="1" z="10" spawntime="60" />
 	</spawn>
-	<spawn centerx="714" centery="612" centerz="10" radius="1">
-		<npc name="Voc Chilled" x="0" y="1" z="10" spawntime="60" />
-	</spawn>
-	<spawn centerx="719" centery="612" centerz="10" radius="1">
-		<npc name="Voc Jiren" x="0" y="1" z="10" spawntime="60" />
-	</spawn>
-	<spawn centerx="724" centery="612" centerz="10" radius="1">
+	<spawn centerx="709" centery="612" centerz="10" radius="1">
 		<npc name="Voc Kagome" x="0" y="1" z="10" spawntime="60" />
 	</spawn>
-	<spawn centerx="729" centery="612" centerz="10" radius="1">
+	<spawn centerx="714" centery="612" centerz="10" radius="1">
 		<npc name="Voc C8" x="0" y="1" z="10" spawntime="60" />
 	</spawn>
-	<spawn centerx="734" centery="612" centerz="10" radius="1">
+	<spawn centerx="719" centery="612" centerz="10" radius="1">
 		<npc name="Voc King Vegeta" x="0" y="1" z="10" spawntime="60" />
 	</spawn>
-	<spawn centerx="739" centery="612" centerz="10" radius="1">
+	<spawn centerx="724" centery="612" centerz="10" radius="1">
 		<npc name="Voc Kame" x="0" y="1" z="10" spawntime="60" />
 	</spawn>
-	<spawn centerx="744" centery="612" centerz="10" radius="1">
+	<spawn centerx="729" centery="612" centerz="10" radius="1">
 		<npc name="Voc Zaiko" x="0" y="1" z="10" spawntime="60" />
 	</spawn>
-	<spawn centerx="749" centery="612" centerz="10" radius="1">
+	<spawn centerx="734" centery="612" centerz="10" radius="1">
 		<npc name="Voc Vegetto" x="0" y="1" z="10" spawntime="60" />
 	</spawn>
-	<spawn centerx="754" centery="612" centerz="10" radius="1">
-		<npc name="Voc Tapion" x="0" y="1" z="10" spawntime="60" />
-	</spawn>
-	<spawn centerx="759" centery="612" centerz="10" radius="1">
-		<npc name="Voc Zamasu" x="0" y="1" z="10" spawntime="1" />
-	</spawn>
-	<spawn centerx="764" centery="612" centerz="10" radius="1">
-		<npc name="Voc Vermoud" x="0" y="1" z="10" spawntime="30" />
-	</spawn>
-	<spawn centerx="769" centery="612" centerz="10" radius="1">
-		<npc name="Voc Liquir" x="0" y="1" z="10" spawntime="1" />
-	</spawn>
-	<spawn centerx="774" centery="612" centerz="10" radius="1">
-		<npc name="Voc Kyabe" x="0" y="1" z="10" spawntime="1" />
-	</spawn>
-	<spawn centerx="779" centery="612" centerz="10" radius="1">
-		<npc name="Voc Goku Black" x="0" y="1" z="10" spawntime="1" />
-	</spawn>
-	<spawn centerx="784" centery="612" centerz="10" radius="1">
-		<npc name="Voc Hitto" x="0" y="1" z="10" spawntime="1" />
-	</spawn>
+	<spawn centerx="739" centery="612" centerz="10" radius="1" />
+	<spawn centerx="744" centery="612" centerz="10" radius="1" />
+	<spawn centerx="749" centery="612" centerz="10" radius="1" />
+	<spawn centerx="754" centery="612" centerz="10" radius="1" />
+	<spawn centerx="759" centery="612" centerz="10" radius="1" />
+	<spawn centerx="764" centery="612" centerz="10" radius="1" />
+	<spawn centerx="769" centery="612" centerz="10" radius="1" />
+	<spawn centerx="774" centery="612" centerz="10" radius="1" />
+	<spawn centerx="779" centery="612" centerz="10" radius="1" />
+	<spawn centerx="784" centery="612" centerz="10" radius="1" />
 	<spawn centerx="394" centery="613" centerz="10" radius="1">
 		<monster name="Hell Janemba Teach" x="1" y="0" z="10" spawntime="30" />
 	</spawn>

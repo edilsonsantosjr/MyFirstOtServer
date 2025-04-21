@@ -2319,6 +2319,7 @@
 	</vocation>
 	
 	<!-- Transformações Jiren -->
+	<!--
 	<vocation id="499" name="Jiren" description="Jiren" needpremium="0" gaincap="150" gainhp="290" gainmana="250" gainhpticks="1" gainhpamount="1000" gainmanaticks="1" gainmanaamount="1000" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="499" lessloss="50" manager="0">
 		<formula meleeDamage="10.0" distDamage="5.0" wandDamage="1.0" magDamage="1.3" magHealingDamage="0.5" defense="1.0" magDefense="1.0" armor="1.0"/>
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
@@ -2379,7 +2380,8 @@
 		<formula meleeDamage="225.0" distDamage="152.5" wandDamage="1.0" magDamage="2.9" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
-	
+	-->
+		
 	<!-- Transformações Bills -->
 	<vocation id="514" name="Bills" description="Bills" needpremium="0" gaincap="100" gainhp="290" gainmana="250" gainhpticks="2" gainhpamount="100" gainmanaticks="1" gainmanaamount="100" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="514" lessloss="50" manager="1">
 		<formula meleeDamage="1.0" distDamage="10.0" wandDamage="1.0" magDamage="1.3" magHealingDamage="0.5" defense="1.0" magDefense="1.0" armor="1.0"/>

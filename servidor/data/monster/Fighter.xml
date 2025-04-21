@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<monster name="Fighter" nameDescription="an Fighter" race="blood" experience="50000000" speed="200" manacost="0">
+<monster name="Fighter" nameDescription="an Fighter" race="blood" experience="700" speed="200" manacost="0">
 	<health now="500" max="500"/>
 	<look type="409" head="1" body="1" legs="1" feet="1" addons="0" corpse="12856"/>
 	<targetchange interval="5000" chance="8"/>

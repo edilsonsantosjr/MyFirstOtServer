@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<monster name="Triceratops" nameDescription="an Triceratops" race="blood" experience="50000000" speed="350" manacost="0">
+<monster name="Triceratops" nameDescription="an Triceratops" race="blood" experience="2000" speed="350" manacost="0">
 	<health now="3000" max="3000"/>
 	<look type="430" head="1" body="1" legs="1" feet="1" addons="0" corpse="12902"/>
 	<targetchange interval="5000" chance="8"/>

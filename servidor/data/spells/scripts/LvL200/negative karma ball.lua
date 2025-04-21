@@ -1,7 +1,7 @@
 local combat1 = createCombatObject()
 setCombatParam(combat1, COMBAT_PARAM_HITCOLOR, COLOR_LIGHTRED)
 setCombatParam(combat1, COMBAT_PARAM_TYPE, COMBAT_PHYSICALDAMAGE)
-setCombatParam(combat1, COMBAT_PARAM_DISTANCEEFFECT, 84)
+setCombatParam(combat1, COMBAT_PARAM_DISTANCEEFFECT, 21)
 setCombatFormula(combat1, COMBAT_FORMULA_LEVELMAGIC, -35.0, 0, -40.5, 0)
 
 local function onCastSpell1(parameters)
@@ -18,7 +18,7 @@ for k = 1, 11 do
 	addEvent(function()
 		if isCreature(cid) then
 			addEvent(onCastSpell1, 1, parameters)
-			doSendMagicEffect(position1, 251)
+			doSendMagicEffect(position1, 34)
 		end
 	end, 1 + ((k-1) * 225))
 end
