@@ -59,7 +59,7 @@
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
 	<vocation id="14" name="Gogeta [Goku]" description="Gogeta" needpremium="0" gaincap="100" gainhp="270" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="14" lessloss="50" manager="0">
-		<formula meleeDamage="150.0" distDamage="1.0" wandDamage="1.0" magDamage="2.1" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
+		<formula meleeDamage="250.0" distDamage="1.0" wandDamage="1.0" magDamage="2.5" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
 	<vocation id="15" name="Goku Reborn" description="Goku Reborn" needpremium="0" gaincap="100" gainhp="270" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="15" lessloss="50" manager="0">
@@ -133,7 +133,7 @@
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
 	<vocation id="30" name="Vegeta Reborn" description="Vegeta Reborn" needpremium="0" gaincap="100" gainhp="270" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="30" lessloss="50" manager="0">
-		<formula meleeDamage="200.0" distDamage="1.0" wandDamage="1.0" magDamage="2.2" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
+		<formula meleeDamage="250.0" distDamage="1.0" wandDamage="1.0" magDamage="2.5" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
 	<vocation id="31" name="Vegeta Reborn" description="Vegeta Reborn" needpremium="0" gaincap="100" gainhp="270" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="31" lessloss="50" manager="0">
@@ -183,7 +183,7 @@
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
 	<vocation id="40" name="Piccolo Reborn" description="Piccolo Reborn" needpremium="0" gaincap="100" gainhp="250" gainmana="250" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="40" lessloss="50" manager="0">
-		<formula meleeDamage="1.0" distDamage="75.0" wandDamage="1.0" magDamage="1.8" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
+		<formula meleeDamage="1.0" distDamage="250.0" wandDamage="1.0" magDamage="2.5" magHealingDamage="1.2" defense="1.0" magDefense="1.0" armor="1.0"/>
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
 	<vocation id="41" name="Piccolo Reborn" description="Piccolo Reborn" needpremium="0" gaincap="100" gainhp="250" gainmana="250" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="41" lessloss="50" manager="0">
@@ -249,7 +249,7 @@
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
 	<vocation id="54" name="C17 Reborn" description="C17 Reborn" needpremium="0" gaincap="100" gainhp="270" gainmana="240" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="54" lessloss="50" manager="0">
-		<formula meleeDamage="100.0" distDamage="1.0" wandDamage="1.0" magDamage="2.0" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
+		<formula meleeDamage="250.0" distDamage="1.0" wandDamage="1.0" magDamage="2.5" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
 	<vocation id="55" name="C17 Reborn" description="C17 Reborn" needpremium="0" gaincap="100" gainhp="270" gainmana="240" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="55" lessloss="50" manager="0">
@@ -311,7 +311,7 @@
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
 	<vocation id="68" name="Gohan Reborn" description="Gohan Reborn" needpremium="0" gaincap="100" gainhp="240" gainmana="260" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="68" lessloss="50" manager="0">
-		<formula meleeDamage="100.0" distDamage="1.0" wandDamage="1.0" magDamage="2.0" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
+		<formula meleeDamage="250.0" distDamage="1.0" wandDamage="1.0" magDamage="2.5" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
 	<vocation id="69" name="Gohan Reborn" description="Gohan Reborn" needpremium="0" gaincap="100" gainhp="240" gainmana="260" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="69" lessloss="50" manager="0">
@@ -373,7 +373,7 @@
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
 	<vocation id="81" name="Trunks Reborn" description="Trunks Reborn" needpremium="0" gaincap="100" gainhp="260" gainmana="240" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="81" lessloss="50" manager="0">
-		<formula meleeDamage="200.0" distDamage="1.0" wandDamage="1.0" magDamage="2.2" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
+		<formula meleeDamage="250.0" distDamage="1.0" wandDamage="1.0" magDamage="2.5" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
 	<vocation id="82" name="Trunks Reborn" description="Trunks Reborn" needpremium="0" gaincap="100" gainhp="260" gainmana="240" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="82" lessloss="50" manager="0">
@@ -427,7 +427,7 @@
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
 	<vocation id="875" name="Cell Reborn" description="Cell Reborn" needpremium="0" gaincap="100" gainhp="270" gainmana="200" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="875" lessloss="50" manager="0">
-		<formula meleeDamage="1.0" distDamage="75.0" wandDamage="1.0" magDamage="2.0" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
+		<formula meleeDamage="1.0" distDamage="250.0" wandDamage="1.0" magDamage="2.5" magHealingDamage="1.2" defense="1.0" magDefense="1.0" armor="1.0"/>
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
 	<vocation id="92" name="Cell Reborn" description="Cell Reborn" needpremium="0" gaincap="100" gainhp="270" gainmana="200" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="92" lessloss="50" manager="0">
@@ -505,7 +505,7 @@
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
 	<vocation id="109" name="Freeza Reborn" description="Freeza Reborn" needpremium="0" gaincap="100" gainhp="260" gainmana="240" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="109" lessloss="50" manager="0">
-		<formula meleeDamage="200.0" distDamage="1.0" wandDamage="1.0" magDamage="2.2" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
+		<formula meleeDamage="250.0" distDamage="1.0" wandDamage="1.0" magDamage="2.5" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
 	<vocation id="110" name="Freeza Reborn" description="Freeza Reborn" needpremium="0" gaincap="100" gainhp="260" gainmana="240" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="110" lessloss="50" manager="0">
@@ -575,7 +575,7 @@
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
 	<vocation id="124" name="Majin Boo Reborn" description="Majin Boo Reborn" needpremium="0" gaincap="100" gainhp="290" gainmana="200" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="124" lessloss="50" manager="0">
-		<formula meleeDamage="100.0" distDamage="1.0" wandDamage="1.0" magDamage="2.0" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
+		<formula meleeDamage="250.0" distDamage="1.0" wandDamage="1.0" magDamage="2.4" magHealingDamage="1.2" defense="1.0" magDefense="1.0" armor="1.0"/>
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
 	<vocation id="125" name="Majin Boo Reborn" description="Majin Boo Reborn" needpremium="0" gaincap="100" gainhp="290" gainmana="200" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="125" lessloss="50" manager="0">
@@ -637,7 +637,7 @@
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
 	<vocation id="137" name="Broodock [Broly]" description="Broodock" needpremium="0" gaincap="100" gainhp="300" gainmana="200" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="137" lessloss="50" manager="0">
-		<formula meleeDamage="150.0" distDamage="1.0" wandDamage="1.0" magDamage="2.1" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
+		<formula meleeDamage="250.0" distDamage="1.0" wandDamage="1.0" magDamage="2.4" magHealingDamage="1.2" defense="1.0" magDefense="1.0" armor="1.0"/>
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
 	<vocation id="138" name="Broly Reborn" description="Broly Reborn" needpremium="0" gaincap="100" gainhp="300" gainmana="200" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="138" lessloss="50" manager="0">
@@ -695,7 +695,7 @@
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
 	<vocation id="149" name="C18 Reborn" description="C18 Reborn" needpremium="0" gaincap="100" gainhp="240" gainmana="260" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="149" lessloss="50" manager="0">
-		<formula meleeDamage="100.0" distDamage="1.0" wandDamage="1.0" magDamage="2.0" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
+		<formula meleeDamage="250.0" distDamage="1.0" wandDamage="1.0" magDamage="2.5" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
 	<vocation id="150" name="C18 Reborn" description="C18 Reborn" needpremium="0" gaincap="100" gainhp="240" gainmana="260" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="150" lessloss="50" manager="0">
@@ -753,7 +753,7 @@
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
 	<vocation id="161" name="Uub Reborn" description="Uub Reborn" needpremium="0" gaincap="100" gainhp="250" gainmana="250" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="161" lessloss="50" manager="0">
-		<formula meleeDamage="100.0" distDamage="1.0" wandDamage="1.0" magDamage="2.0" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
+		<formula meleeDamage="250.0" distDamage="1.0" wandDamage="1.0" magDamage="2.5" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
 	<vocation id="162" name="Uub Reborn" description="Uub Reborn" needpremium="0" gaincap="100" gainhp="250" gainmana="250" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="162" lessloss="50" manager="0">
@@ -815,7 +815,7 @@
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
 	<vocation id="175" name="Goten Reborn" description="Goten Reborn" needpremium="0" gaincap="100" gainhp="230" gainmana="270" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="175" lessloss="50" manager="0">
-		<formula meleeDamage="100.0" distDamage="1.0" wandDamage="1.0" magDamage="2.0" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
+		<formula meleeDamage="250.0" distDamage="1.0" wandDamage="1.0" magDamage="2.5" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
 	<vocation id="176" name="Goten Reborn" description="Goten Reborn" needpremium="0" gaincap="100" gainhp="230" gainmana="270" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="176" lessloss="50" manager="0">
@@ -893,7 +893,7 @@
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
 	<vocation id="191" name="Chibi Trunks Reborn" description="Chibi Trunks Reborn" needpremium="0" gaincap="100" gainhp="270" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="191" lessloss="50" manager="0">
-		<formula meleeDamage="250.0" distDamage="1.0" wandDamage="1.0" magDamage="2.3" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
+		<formula meleeDamage="250.0" distDamage="1.0" wandDamage="1.0" magDamage="2.5" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
 	<vocation id="862" name="Chibi Trunks Reborn" description="Chibi Trunks Reborn" needpremium="0" gaincap="100" gainhp="270" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="862" lessloss="50" manager="0">
@@ -951,7 +951,7 @@
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
 	<vocation id="203" name="Cooler Reborn" description="Cooler Reborn" needpremium="0" gaincap="100" gainhp="240" gainmana="260" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="203" lessloss="50" manager="0">
-		<formula meleeDamage="100.0" distDamage="1.0" wandDamage="1.0" magDamage="2.0" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
+		<formula meleeDamage="250.0" distDamage="1.0" wandDamage="1.0" magDamage="2.5" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
 	<vocation id="204" name="Cooler Reborn" description="Cooler Reborn" needpremium="0" gaincap="100" gainhp="240" gainmana="260" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="204" lessloss="50" manager="0">
@@ -1009,7 +1009,7 @@
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
 	<vocation id="215" name="Dende Reborn" description="Dende Reborn" needpremium="0" gaincap="100" gainhp="270" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="215" lessloss="50" manager="0">
-		<formula meleeDamage="1.0" distDamage="100.0" wandDamage="1.0" magDamage="1.8" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
+		<formula meleeDamage="1.0" distDamage="250.0" wandDamage="1.0" magDamage="2.4" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
 	<vocation id="216" name="Dende Reborn" description="Dende Reborn" needpremium="0" gaincap="100" gainhp="270" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="216" lessloss="50" manager="0">
@@ -1071,7 +1071,7 @@
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
 	<vocation id="228" name="Tsuful Reborn" description="Tsuful Reborn" needpremium="0" gaincap="100" gainhp="270" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="228" lessloss="50" manager="0">
-		<formula meleeDamage="200.0" distDamage="1.0" wandDamage="1.0" magDamage="2.2" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
+		<formula meleeDamage="250.0" distDamage="1.0" wandDamage="1.0" magDamage="2.5" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
 	<vocation id="229" name="Tsuful Reborn" description="Tsuful Reborn" needpremium="0" gaincap="100" gainhp="270" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="229" lessloss="50" manager="0">
@@ -1137,7 +1137,7 @@
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
 	<vocation id="242" name="Bardock Reborn" description="Bardock Reborn" needpremium="0" gaincap="100" gainhp="250" gainmana="250" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="242" lessloss="50" manager="0">
-		<formula meleeDamage="200.0" distDamage="1.0" wandDamage="1.0" magDamage="2.2" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
+		<formula meleeDamage="250.0" distDamage="1.0" wandDamage="1.0" magDamage="2.5" magHealingDamage="1.2" defense="1.0" magDefense="1.0" armor="1.0"/>
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
 	<vocation id="243" name="Bardock Reborn" description="Bardock Reborn" needpremium="0" gaincap="100" gainhp="250" gainmana="250" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="243" lessloss="50" manager="0">
@@ -1195,7 +1195,7 @@
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
 	<vocation id="254" name="Kuririn Reborn" description="Kuririn Reborn" needpremium="0" gaincap="100" gainhp="270" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="254" lessloss="50" manager="0">
-		<formula meleeDamage="200.0" distDamage="1.0" wandDamage="1.0" magDamage="2.2" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
+		<formula meleeDamage="250.0" distDamage="1.0" wandDamage="1.0" magDamage="2.5" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
 	<vocation id="255" name="Kuririn Reborn" description="Kuririn Reborn" needpremium="0" gaincap="100" gainhp="270" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="255" lessloss="50" manager="0">
@@ -1249,7 +1249,7 @@
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
 	<vocation id="265" name="Pan Reborn" description="Pan Reborn" needpremium="0" gaincap="100" gainhp="270" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="265" lessloss="50" manager="0">
-		<formula meleeDamage="100.0" distDamage="1.0" wandDamage="1.0" magDamage="2.0" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
+		<formula meleeDamage="250.0" distDamage="1.0" wandDamage="1.0" magDamage="2.5" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
 	<vocation id="266" name="Pan Reborn" description="Pan Reborn" needpremium="0" gaincap="100" gainhp="270" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="266" lessloss="50" manager="0">
@@ -1307,7 +1307,7 @@
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
 	<vocation id="277" name="Kaio Reborn" description="Kaio Reborn" needpremium="0" gaincap="100" gainhp="270" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="277" lessloss="50" manager="0">
-		<formula meleeDamage="1.0" distDamage="100.0" wandDamage="1.0" magDamage="1.8" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
+		<formula meleeDamage="1.0" distDamage="250.0" wandDamage="1.0" magDamage="2.4" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
 	<vocation id="278" name="Kaio Reborn" description="Kaio Reborn" needpremium="0" gaincap="100" gainhp="270" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="278" lessloss="50" manager="0">
@@ -1369,7 +1369,7 @@
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
 	<vocation id="290" name="Videl Reborn" description="Videl Reborn" needpremium="0" gaincap="100" gainhp="270" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="290" lessloss="50" manager="0">
-		<formula meleeDamage="200.0" distDamage="1.0" wandDamage="1.0" magDamage="2.2" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
+		<formula meleeDamage="200.0" distDamage="1.0" wandDamage="1.0" magDamage="2.5" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
 	<vocation id="291" name="Videl Reborn" description="Videl Reborn" needpremium="0" gaincap="100" gainhp="270" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="291" lessloss="50" manager="0">
@@ -1431,7 +1431,7 @@
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
 	<vocation id="303" name="Janemba Reborn" description="Janemba Reborn" needpremium="0" gaincap="100" gainhp="270" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="303" lessloss="50" manager="0">
-		<formula meleeDamage="250.0" distDamage="1.0" wandDamage="1.0" magDamage="2.2" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
+		<formula meleeDamage="250.0" distDamage="1.0" wandDamage="1.0" magDamage="2.4" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
 	<vocation id="491" name="Janemba Reborn" description="Janemba Reborn" needpremium="0" gaincap="100" gainhp="270" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="491" lessloss="50" manager="0">
@@ -1481,7 +1481,7 @@
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
 	<vocation id="313" name="Tenshinhan Reborn" description="Tenshinhan Reborn" needpremium="0" gaincap="100" gainhp="270" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="313" lessloss="50" manager="0">
-		<formula meleeDamage="100.0" distDamage="1.0" wandDamage="1.0" magDamage="2.0" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
+		<formula meleeDamage="250.0" distDamage="1.0" wandDamage="1.0" magDamage="2.5" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
 	<vocation id="314" name="Tenshinhan Reborn" description="Tenshinhan Reborn" needpremium="0" gaincap="100" gainhp="270" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="314" lessloss="50" manager="0">
@@ -1539,7 +1539,7 @@
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
 	<vocation id="325" name="Jenk Reborn" description="Jenk Reborn" needpremium="0" gaincap="100" gainhp="270" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="325" lessloss="50" manager="0">
-		<formula meleeDamage="100.0" distDamage="1.0" wandDamage="1.0" magDamage="2.0" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
+		<formula meleeDamage="250.0" distDamage="1.0" wandDamage="1.0" magDamage="2.5" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
 	<vocation id="326" name="Jenk Reborn" description="Jenk Reborn" needpremium="0" gaincap="100" gainhp="270" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="326" lessloss="50" manager="0">
@@ -1597,7 +1597,7 @@
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
 	<vocation id="337" name="Raditz Reborn" description="Raditz Reborn" needpremium="0" gaincap="100" gainhp="270" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="337" lessloss="50" manager="0">
-		<formula meleeDamage="100.0" distDamage="1.0" wandDamage="1.0" magDamage="2.0" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
+		<formula meleeDamage="250.0" distDamage="1.0" wandDamage="1.0" magDamage="2.5" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
 	<vocation id="338" name="Raditz Reborn" description="Raditz Reborn" needpremium="0" gaincap="100" gainhp="270" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="338" lessloss="50" manager="0">
@@ -1655,7 +1655,7 @@
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
 	<vocation id="349" name="C16 Reborn" description="C16 Reborn" needpremium="0" gaincap="100" gainhp="270" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="349" lessloss="50" manager="0">
-		<formula meleeDamage="100.0" distDamage="1.0" wandDamage="1.0" magDamage="2.0" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
+		<formula meleeDamage="250.0" distDamage="1.0" wandDamage="1.0" magDamage="2.5" magHealingDamage="1.2" defense="1.0" magDefense="1.0" armor="1.0"/>
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
 	<vocation id="350" name="C16 Reborn" description="C16 Reborn" needpremium="0" gaincap="100" gainhp="270" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="350" lessloss="50" manager="0">
@@ -1713,7 +1713,7 @@
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
 	<vocation id="361" name="Turles Reborn" description="Turles Reborn" needpremium="0" gaincap="100" gainhp="270" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="361" lessloss="50" manager="0">
-		<formula meleeDamage="100.0" distDamage="1.0" wandDamage="1.0" magDamage="2.0" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
+		<formula meleeDamage="250.0" distDamage="1.0" wandDamage="1.0" magDamage="2.4" magHealingDamage="1.2" defense="1.0" magDefense="1.0" armor="1.0"/>
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
 	<vocation id="362" name="Turles Reborn" description="Turles Reborn" needpremium="0" gaincap="100" gainhp="270" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="362" lessloss="50" manager="0">
@@ -1771,7 +1771,7 @@
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
 	<vocation id="373" name="Bulma Reborn" description="Bulma Reborn" needpremium="0" gaincap="100" gainhp="270" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="373" lessloss="50" manager="0">
-		<formula meleeDamage="100.0" distDamage="1.0" wandDamage="1.0" magDamage="2.0" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
+		<formula meleeDamage="250.0" distDamage="1.0" wandDamage="1.0" magDamage="2.4" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
 	<vocation id="374" name="Bulma Reborn" description="Bulma Reborn" needpremium="0" gaincap="100" gainhp="270" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="374" lessloss="50" manager="0">
@@ -1829,7 +1829,7 @@
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
 	<vocation id="385" name="Shenron Reborn" description="Shenron Reborn" needpremium="0" gaincap="150" gainhp="290" gainmana="250" gainhpticks="1" gainhpamount="1000" gainmanaticks="1" gainmanaamount="1000" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="385" lessloss="50" manager="0">
-		<formula meleeDamage="150.0" distDamage="75.0" wandDamage="1.0" magDamage="2.5" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
+		<formula meleeDamage="275.0" distDamage="137.5" wandDamage="1.0" magDamage="2.9" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
 	<vocation id="386" name="Shenron Reborn" description="Shenron Reborn" needpremium="0" gaincap="150" gainhp="290" gainmana="250" gainhpticks="1" gainhpamount="1000" gainmanaticks="1" gainmanaamount="1000" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="386" lessloss="50" manager="0">
@@ -1899,7 +1899,7 @@
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
 	<vocation id="907" name="Vegetto Reborn" description="Vegetto Reborn" needpremium="0" gaincap="150" gainhp="290" gainmana="250" gainhpticks="1" gainhpamount="1000" gainmanaticks="1" gainmanaamount="1000" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="907" lessloss="50" manager="0">
-		<formula meleeDamage="275.0" distDamage="137.5" wandDamage="1.0" magDamage="2.3" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
+		<formula meleeDamage="275.0" distDamage="137.5" wandDamage="1.0" magDamage="2.9" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
 	<vocation id="906" name="Vegetto Reborn" description="Vegetto Reborn" needpremium="0" gaincap="150" gainhp="290" gainmana="250" gainhpticks="1" gainhpamount="1000" gainmanaticks="1" gainmanaamount="1000" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="906" lessloss="50" manager="0">
@@ -1908,52 +1908,52 @@
 	</vocation>
 
 <!-- Transformações Tapion -->
-	<vocation id="400" name="Tapion" description="Tapion" needpremium="0" gaincap="150" gainhp="290" gainmana="250" gainhpticks="1" gainhpamount="1000" gainmanaticks="1" gainmanaamount="1000" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="400" lessloss="50" manager="0">
+	<vocation id="400" name="Tapion" description="Tapion" needpremium="0" gaincap="100" gainhp="270" gainmana="230" gainhpticks="1" gainhpamount="1000" gainmanaticks="1" gainmanaamount="1000" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="400" lessloss="50" manager="0">
 		<formula meleeDamage="10.0" distDamage="5.0" wandDamage="1.0" magDamage="1.3" magHealingDamage="0.5" defense="1.0" magDefense="1.0" armor="1.0"/>
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
-	<vocation id="401" name="Tapion" description="Tapion" needpremium="0" gaincap="150" gainhp="290" gainmana="250" gainhpticks="1" gainhpamount="1000" gainmanaticks="1" gainmanaamount="1000" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="401" lessloss="50" manager="0">
+	<vocation id="401" name="Tapion" description="Tapion" needpremium="0" gaincap="100" gainhp="270" gainmana="230" gainhpticks="1" gainhpamount="1000" gainmanaticks="1" gainmanaamount="1000" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="401" lessloss="50" manager="0">
 		<formula meleeDamage="50.0" distDamage="25.0" wandDamage="1.0" magDamage="1.5" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
-	<vocation id="402" name="Tapion" description="Tapion" needpremium="0" gaincap="150" gainhp="290" gainmana="250" gainhpticks="1" gainhpamount="1000" gainmanaticks="1" gainmanaamount="1000" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="402" lessloss="50" manager="0">
+	<vocation id="402" name="Tapion" description="Tapion" needpremium="0" gaincap="100" gainhp="270" gainmana="230" gainhpticks="1" gainhpamount="1000" gainmanaticks="1" gainmanaamount="1000" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="402" lessloss="50" manager="0">
 		<formula meleeDamage="75.0" distDamage="37.5" wandDamage="1.0" magDamage="1.7" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
-	<vocation id="403" name="Tapion" description="Tapion" needpremium="0" gaincap="150" gainhp="290" gainmana="250" gainhpticks="1" gainhpamount="1000" gainmanaticks="1" gainmanaamount="1000" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="403" lessloss="50" manager="0">
+	<vocation id="403" name="Tapion" description="Tapion" needpremium="0" gaincap="100" gainhp="270" gainmana="230" gainhpticks="1" gainhpamount="1000" gainmanaticks="1" gainmanaamount="1000" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="403" lessloss="50" manager="0">
 		<formula meleeDamage="100.0" distDamage="50.0" wandDamage="1.0" magDamage="1.9" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
-	<vocation id="404" name="Tapion" description="Tapion" needpremium="0" gaincap="150" gainhp="290" gainmana="250" gainhpticks="1" gainhpamount="1000" gainmanaticks="1" gainmanaamount="1000" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="404" lessloss="50" manager="0">
+	<vocation id="404" name="Tapion" description="Tapion" needpremium="0" gaincap="100" gainhp="270" gainmana="230" gainhpticks="1" gainhpamount="1000" gainmanaticks="1" gainmanaamount="1000" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="404" lessloss="50" manager="0">
 		<formula meleeDamage="125.0" distDamage="62.5" wandDamage="1.0" magDamage="2.1" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
-	<vocation id="405" name="Tapion Reborn" description="Tapion Reborn" needpremium="0" gaincap="150" gainhp="290" gainmana="250" gainhpticks="1" gainhpamount="1000" gainmanaticks="1" gainmanaamount="1000" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="405" lessloss="50" manager="0">
+	<vocation id="405" name="Tapion Reborn" description="Tapion Reborn" needpremium="0" gaincap="100" gainhp="270" gainmana="230" gainhpticks="1" gainhpamount="1000" gainmanaticks="1" gainmanaamount="1000" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="405" lessloss="50" manager="0">
 		<formula meleeDamage="25.0" distDamage="12.5" wandDamage="1.0" magDamage="1.5" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
-	<vocation id="406" name="Tapion Reborn" description="Tapion Reborn" needpremium="0" gaincap="150" gainhp="290" gainmana="250" gainhpticks="1" gainhpamount="1000" gainmanaticks="1" gainmanaamount="1000" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="406" lessloss="50" manager="0">
+	<vocation id="406" name="Tapion Reborn" description="Tapion Reborn" needpremium="0" gaincap="100" gainhp="270" gainmana="230" gainhpticks="1" gainhpamount="1000" gainmanaticks="1" gainmanaamount="1000" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="406" lessloss="50" manager="0">
 		<formula meleeDamage="50.0" distDamage="25.0" wandDamage="1.0" magDamage="1.7" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
-	<vocation id="999" name="Tapion Reborn" description="Tapion Reborn" needpremium="0" gaincap="150" gainhp="290" gainmana="250" gainhpticks="1" gainhpamount="1000" gainmanaticks="1" gainmanaamount="1000" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="999" lessloss="50" manager="0">
+	<vocation id="999" name="Tapion Reborn" description="Tapion Reborn" needpremium="0" gaincap="100" gainhp="270" gainmana="230" gainhpticks="1" gainhpamount="1000" gainmanaticks="1" gainmanaamount="1000" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="999" lessloss="50" manager="0">
 		<formula meleeDamage="60.0" distDamage="30.5" wandDamage="1.0" magDamage="1.8" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
-	<vocation id="407" name="Tapion Reborn" description="Tapion Reborn" needpremium="0" gaincap="150" gainhp="290" gainmana="250" gainhpticks="1" gainhpamount="1000" gainmanaticks="1" gainmanaamount="1000" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="407" lessloss="50" manager="0">
+	<vocation id="407" name="Tapion Reborn" description="Tapion Reborn" needpremium="0" gaincap="100" gainhp="270" gainmana="230" gainhpticks="1" gainhpamount="1000" gainmanaticks="1" gainmanaamount="1000" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="407" lessloss="50" manager="0">
 		<formula meleeDamage="75.0" distDamage="37.5" wandDamage="1.0" magDamage="1.9" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
-	<vocation id="408" name="Tapion Reborn" description="Tapion Reborn" needpremium="0" gaincap="150" gainhp="290" gainmana="250" gainhpticks="1" gainhpamount="1000" gainmanaticks="1" gainmanaamount="1000" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="408" lessloss="50" manager="0">
+	<vocation id="408" name="Tapion Reborn" description="Tapion Reborn" needpremium="0" gaincap="100" gainhp="270" gainmana="230" gainhpticks="1" gainhpamount="1000" gainmanaticks="1" gainmanaamount="1000" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="408" lessloss="50" manager="0">
 		<formula meleeDamage="100.0" distDamage="50.0" wandDamage="1.0" magDamage="2.1" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
-	<vocation id="409" name="Tapion Reborn" description="Tapion Reborn" needpremium="0" gaincap="150" gainhp="290" gainmana="250" gainhpticks="1" gainhpamount="1000" gainmanaticks="1" gainmanaamount="1000" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="409" lessloss="50" manager="0">
+	<vocation id="409" name="Tapion Reborn" description="Tapion Reborn" needpremium="0" gaincap="100" gainhp="270" gainmana="230" gainhpticks="1" gainhpamount="1000" gainmanaticks="1" gainmanaamount="1000" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="409" lessloss="50" manager="0">
 		<formula meleeDamage="125.0" distDamage="62.5" wandDamage="1.0" magDamage="2.3" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
-	<vocation id="410" name="Tapion Reborn" description="Tapion Reborn" needpremium="0" gaincap="150" gainhp="290" gainmana="250" gainhpticks="1" gainhpamount="1000" gainmanaticks="1" gainmanaamount="1000" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="410" lessloss="50" manager="0">
-		<formula meleeDamage="150.0" distDamage="75.0" wandDamage="1.0" magDamage="2.5" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
+	<vocation id="410" name="Tapion Reborn" description="Tapion Reborn" needpremium="0" gaincap="100" gainhp="270" gainmana="230" gainhpticks="1" gainhpamount="1000" gainmanaticks="1" gainmanaamount="1000" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="410" lessloss="50" manager="0">
+		<formula meleeDamage="250.0" distDamage="1.0" wandDamage="1.0" magDamage="2.5" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
 	<vocation id="411" name="Tapion Reborn" description="Tapion Reborn" needpremium="0" gaincap="150" gainhp="290" gainmana="250" gainhpticks="1" gainhpamount="1000" gainmanaticks="1" gainmanaamount="1000" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="411" lessloss="50" manager="0">
@@ -2007,7 +2007,7 @@
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
 	<vocation id="422" name="Kame Reborn" description="Kame Reborn" needpremium="0" gaincap="150" gainhp="290" gainmana="250" gainhpticks="1" gainhpamount="1000" gainmanaticks="1" gainmanaamount="1000" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="422" lessloss="50" manager="0">
-		<formula meleeDamage="150.0" distDamage="75.0" wandDamage="1.0" magDamage="2.3" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
+		<formula meleeDamage="275.0" distDamage="137.5" wandDamage="1.0" magDamage="2.9" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
 	<vocation id="423" name="Kame Reborn" description="Kame Reborn" needpremium="0" gaincap="150" gainhp="290" gainmana="250" gainhpticks="1" gainhpamount="1000" gainmanaticks="1" gainmanaamount="1000" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="423" lessloss="50" manager="0">
@@ -2066,7 +2066,7 @@
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
 	<vocation id="434" name="King Vegeta Reborn" description="King Vegeta Reborn" needpremium="0" gaincap="150" gainhp="290" gainmana="250" gainhpticks="1" gainhpamount="1000" gainmanaticks="1" gainmanaamount="1000" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="434" lessloss="50" manager="0">
-		<formula meleeDamage="150.0" distDamage="75.0" wandDamage="1.0" magDamage="2.2" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
+		<formula meleeDamage="275.0" distDamage="137.5" wandDamage="1.0" magDamage="2.9" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
 	<vocation id="435" name="King Vegeta Reborn" description="King Vegeta Reborn" needpremium="0" gaincap="150" gainhp="290" gainmana="250" gainhpticks="1" gainhpamount="1000" gainmanaticks="1" gainmanaamount="1000" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="435" lessloss="50" manager="0">
@@ -2124,7 +2124,7 @@
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
 	<vocation id="446" name="Kagome Reborn" description="Kagome Reborn" needpremium="0" gaincap="150" gainhp="310" gainmana="270" gainhpticks="1" gainhpamount="1000" gainmanaticks="1" gainmanaamount="1000" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="446" lessloss="50" manager="0">
-		<formula meleeDamage="150.0" distDamage="75.0" wandDamage="1.0" magDamage="2.1" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
+		<formula meleeDamage="275.0" distDamage="137.5" wandDamage="1.0" magDamage="2.9" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
 	<vocation id="447" name="Kagome Reborn" description="Kagome Reborn" needpremium="0" gaincap="150" gainhp="310" gainmana="270" gainhpticks="1" gainhpamount="1000" gainmanaticks="1" gainmanaamount="1000" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="447" lessloss="50" manager="0">
@@ -2182,7 +2182,7 @@
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
 	<vocation id="458" name="Zaiko Reborn" description="Zaiko Reborn" needpremium="0" gaincap="150" gainhp="310" gainmana="270" gainhpticks="1" gainhpamount="1000" gainmanaticks="1" gainmanaamount="1000" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="458" lessloss="50" manager="0">
-		<formula meleeDamage="150.0" distDamage="75.0" wandDamage="1.0" magDamage="2.1" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
+		<formula meleeDamage="275.0" distDamage="137.5" wandDamage="1.0" magDamage="2.8" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
 	<vocation id="459" name="Zaiko Reborn" description="Zaiko Reborn" needpremium="0" gaincap="150" gainhp="310" gainmana="270" gainhpticks="1" gainhpamount="1000" gainmanaticks="1" gainmanaamount="1000" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="459" lessloss="50" manager="0">
@@ -2203,55 +2203,55 @@
 	</vocation>
 
 <!-- Transformações Chilled -->
-	<vocation id="461" name="Lord Chilled" description="Lord Chilled" needpremium="0" gaincap="150" gainhp="290" gainmana="250" gainhpticks="1" gainhpamount="1000" gainmanaticks="1" gainmanaamount="1000" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="461" lessloss="50" manager="0">
+	<vocation id="461" name="Lord Chilled" description="Lord Chilled" needpremium="0" gaincap="100" gainhp="270" gainmana="230" gainhpticks="1" gainhpamount="1000" gainmanaticks="1" gainmanaamount="1000" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="461" lessloss="50" manager="0">
 		<formula meleeDamage="10.0" distDamage="5.0" wandDamage="1.0" magDamage="1.3" magHealingDamage="0.5" defense="1.0" magDefense="1.0" armor="1.0"/>
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
-	<vocation id="462" name="Lord Chilled" description="Lord Chilled" needpremium="0" gaincap="150" gainhp="290" gainmana="250" gainhpticks="1" gainhpamount="1000" gainmanaticks="1" gainmanaamount="1000" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="462" lessloss="50" manager="0">
+	<vocation id="462" name="Lord Chilled" description="Lord Chilled" needpremium="0" gaincap="100" gainhp="270" gainmana="230" gainhpticks="1" gainhpamount="1000" gainmanaticks="1" gainmanaamount="1000" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="462" lessloss="50" manager="0">
 		<formula meleeDamage="50.0" distDamage="25.0" wandDamage="1.0" magDamage="1.5" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
-	<vocation id="463" name="Lord Chilled" description="Lord Chilled" needpremium="0" gaincap="150" gainhp="290" gainmana="250" gainhpticks="1" gainhpamount="1000" gainmanaticks="1" gainmanaamount="1000" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="463" lessloss="50" manager="0">
+	<vocation id="463" name="Lord Chilled" description="Lord Chilled" needpremium="0" gaincap="100" gainhp="270" gainmana="230" gainhpticks="1" gainhpamount="1000" gainmanaticks="1" gainmanaamount="1000" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="463" lessloss="50" manager="0">
 		<formula meleeDamage="75.0" distDamage="37.5" wandDamage="1.0" magDamage="1.7" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
-	<vocation id="464" name="Lord Chilled" description="Lord Chilled" needpremium="0" gaincap="150" gainhp="290" gainmana="250" gainhpticks="1" gainhpamount="1000" gainmanaticks="1" gainmanaamount="1000" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="464" lessloss="50" manager="0">
+	<vocation id="464" name="Lord Chilled" description="Lord Chilled" needpremium="0" gaincap="100" gainhp="270" gainmana="230" gainhpticks="1" gainhpamount="1000" gainmanaticks="1" gainmanaamount="1000" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="464" lessloss="50" manager="0">
 		<formula meleeDamage="100.0" distDamage="50.0" wandDamage="1.0" magDamage="1.9" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
-	<vocation id="465" name="Lord Chilled" description="Lord Chilled" needpremium="0" gaincap="150" gainhp="290" gainmana="250" gainhpticks="1" gainhpamount="1000" gainmanaticks="1" gainmanaamount="1000" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="465" lessloss="50" manager="0">
+	<vocation id="465" name="Lord Chilled" description="Lord Chilled" needpremium="0" gaincap="100" gainhp="270" gainmana="230" gainhpticks="1" gainhpamount="1000" gainmanaticks="1" gainmanaamount="1000" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="465" lessloss="50" manager="0">
 		<formula meleeDamage="125.0" distDamage="62.5" wandDamage="1.0" magDamage="2.1" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
-	<vocation id="466" name="Lord Chilled Reborn" description="Lord Chilled Reborn" needpremium="0" gaincap="150" gainhp="290" gainmana="250" gainhpticks="1" gainhpamount="1000" gainmanaticks="1" gainmanaamount="1000" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="466" lessloss="50" manager="0">
+	<vocation id="466" name="Lord Chilled Reborn" description="Lord Chilled Reborn" needpremium="0" gaincap="100" gainhp="270" gainmana="230" gainhpticks="1" gainhpamount="1000" gainmanaticks="1" gainmanaamount="1000" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="466" lessloss="50" manager="0">
 		<formula meleeDamage="25.0" distDamage="12.5" wandDamage="1.0" magDamage="1.5" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
-	<vocation id="467" name="Lord Chilled Reborn" description="Lord Chilled Reborn" needpremium="0" gaincap="150" gainhp="290" gainmana="250" gainhpticks="1" gainhpamount="1000" gainmanaticks="1" gainmanaamount="1000" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="467" lessloss="50" manager="0">
+	<vocation id="467" name="Lord Chilled Reborn" description="Lord Chilled Reborn" needpremium="0" gaincap="100" gainhp="270" gainmana="230" gainhpticks="1" gainhpamount="1000" gainmanaticks="1" gainmanaamount="1000" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="467" lessloss="50" manager="0">
 		<formula meleeDamage="50.0" distDamage="25.0" wandDamage="1.0" magDamage="1.7" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
-	<vocation id="468" name="Lord Chilled Reborn" description="Lord Chilled Reborn" needpremium="0" gaincap="150" gainhp="290" gainmana="250" gainhpticks="1" gainhpamount="1000" gainmanaticks="1" gainmanaamount="1000" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="468" lessloss="50" manager="0">
+	<vocation id="468" name="Lord Chilled Reborn" description="Lord Chilled Reborn" needpremium="0" gaincap="100" gainhp="270" gainmana="230" gainhpticks="1" gainhpamount="1000" gainmanaticks="1" gainmanaamount="1000" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="468" lessloss="50" manager="0">
 		<formula meleeDamage="75.0" distDamage="37.5" wandDamage="1.0" magDamage="1.8" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
-	<vocation id="469" name="Lord Chilled Reborn" description="Lord Chilled Reborn" needpremium="0" gaincap="150" gainhp="290" gainmana="250" gainhpticks="1" gainhpamount="1000" gainmanaticks="1" gainmanaamount="1000" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="469" lessloss="50" manager="0">
+	<vocation id="469" name="Lord Chilled Reborn" description="Lord Chilled Reborn" needpremium="0" gaincap="100" gainhp="270" gainmana="230" gainhpticks="1" gainhpamount="1000" gainmanaticks="1" gainmanaamount="1000" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="469" lessloss="50" manager="0">
 		<formula meleeDamage="100.0" distDamage="50.0" wandDamage="1.0" magDamage="1.9" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
-	<vocation id="470" name="Lord Chilled Reborn" description="Lord Chilled Reborn" needpremium="0" gaincap="150" gainhp="290" gainmana="250" gainhpticks="1" gainhpamount="1000" gainmanaticks="1" gainmanaamount="1000" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="470" lessloss="50" manager="0">
-		<formula meleeDamage="150.0" distDamage="75.0" wandDamage="1.0" magDamage="2.1" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
+	<vocation id="470" name="Lord Chilled Reborn" description="Lord Chilled Reborn" needpremium="0" gaincap="100" gainhp="270" gainmana="230" gainhpticks="1" gainhpamount="1000" gainmanaticks="1" gainmanaamount="1000" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="470" lessloss="50" manager="0">
+		<formula meleeDamage="275.0" distDamage="137.5" wandDamage="1.0" magDamage="2.8" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
-	<vocation id="471" name="Lord Chilled Reborn" description="Lord Chilled Reborn" needpremium="0" gaincap="150" gainhp="290" gainmana="250" gainhpticks="1" gainhpamount="1000" gainmanaticks="1" gainmanaamount="1000" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="471" lessloss="50" manager="0">
+	<vocation id="471" name="Lord Chilled Reborn" description="Lord Chilled Reborn" needpremium="0" gaincap="100" gainhp="290" gainmana="250" gainhpticks="1" gainhpamount="1000" gainmanaticks="1" gainmanaamount="1000" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="471" lessloss="50" manager="0">
 		<formula meleeDamage="225.0" distDamage="112.5" wandDamage="1.0" magDamage="2.3" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
-	<vocation id="472" name="Lord Chilled Reborn" description="Lord Chilled Reborn" needpremium="0" gaincap="150" gainhp="290" gainmana="250" gainhpticks="1" gainhpamount="1000" gainmanaticks="1" gainmanaamount="1000" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="472" lessloss="50" manager="0">
+	<vocation id="472" name="Lord Chilled Reborn" description="Lord Chilled Reborn" needpremium="0" gaincap="100" gainhp="290" gainmana="250" gainhpticks="1" gainhpamount="1000" gainmanaticks="1" gainmanaamount="1000" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="472" lessloss="50" manager="0">
 		<formula meleeDamage="275.0" distDamage="137.5" wandDamage="1.0" magDamage="2.5" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
-	<vocation id="492" name="Lord Chilled Reborn" description="Lord Chilled Reborn" needpremium="0" gaincap="150" gainhp="290" gainmana="250" gainhpticks="1" gainhpamount="1000" gainmanaticks="1" gainmanaamount="1000" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="492" lessloss="50" manager="0">
+	<vocation id="492" name="Lord Chilled Reborn" description="Lord Chilled Reborn" needpremium="0" gaincap="100" gainhp="290" gainmana="250" gainhpticks="1" gainhpamount="1000" gainmanaticks="1" gainmanaamount="1000" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="492" lessloss="50" manager="0">
 		<formula meleeDamage="275.0" distDamage="137.5" wandDamage="1.0" magDamage="2.7" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
@@ -2306,7 +2306,7 @@
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
 	<vocation id="488" name="C8 Reborn" description="C8 Reborn" needpremium="0" gaincap="150" gainhp="280" gainmana="260" gainhpticks="1" gainhpamount="1000" gainmanaticks="1" gainmanaamount="1000" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="488" lessloss="50" manager="0">
-		<formula meleeDamage="225.0" distDamage="112.5" wandDamage="1.0" magDamage="2.7" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
+		<formula meleeDamage="275.0" distDamage="137.5" wandDamage="1.0" magDamage="2.9" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
 	</vocation>
 	<vocation id="489" name="C8 Reborn" description="C8 Reborn" needpremium="0" gaincap="150" gainhp="280" gainmana="260" gainhpticks="1" gainhpamount="1000" gainmanaticks="1" gainmanaamount="1000" manamultiplier="1.1" attackspeed="1200" soulmax="200" gainsoulticks="15" fromvoc="489" lessloss="50" manager="0">
