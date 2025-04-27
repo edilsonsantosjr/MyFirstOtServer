@@ -16212,17 +16212,11 @@
 	<spawn centerx="1409" centery="386" centerz="10" radius="1">
 		<monster name="White Black" x="-1" y="0" z="10" spawntime="20" />
 	</spawn>
-	<spawn centerx="813" centery="388" centerz="10" radius="1">
-		<monster name="Ancient Dinosaur" x="1" y="0" z="10" spawntime="30" />
-	</spawn>
 	<spawn centerx="547" centery="390" centerz="10" radius="1">
 		<monster name="Goku SSJ3 Quest" x="-1" y="-1" z="10" spawntime="30" />
 	</spawn>
 	<spawn centerx="1434" centery="391" centerz="10" radius="1">
 		<monster name="White Black" x="0" y="-1" z="10" spawntime="30" />
-	</spawn>
-	<spawn centerx="810" centery="392" centerz="10" radius="1">
-		<monster name="Ancient Triceratops" x="0" y="-1" z="10" spawntime="30" />
 	</spawn>
 	<spawn centerx="553" centery="393" centerz="10" radius="1">
 		<monster name="Gogeta SSJ2 Quest" x="1" y="1" z="10" spawntime="30" />
@@ -16249,20 +16243,11 @@
 	<spawn centerx="1442" centery="400" centerz="10" radius="1">
 		<monster name="White Black" x="1" y="0" z="10" spawntime="30" />
 	</spawn>
-	<spawn centerx="807" centery="401" centerz="10" radius="1">
-		<monster name="Ancient Dinosaur" x="0" y="-1" z="10" spawntime="30" />
-	</spawn>
 	<spawn centerx="1403" centery="401" centerz="10" radius="1">
 		<monster name="White Black" x="1" y="0" z="10" spawntime="30" />
 	</spawn>
 	<spawn centerx="1414" centery="405" centerz="10" radius="1">
 		<monster name="White Black" x="-1" y="0" z="10" spawntime="30" />
-	</spawn>
-	<spawn centerx="790" centery="408" centerz="10" radius="1">
-		<monster name="Ancient Dinosaur" x="0" y="0" z="10" spawntime="30" />
-	</spawn>
-	<spawn centerx="795" centery="408" centerz="10" radius="1">
-		<monster name="Ancient Triceratops" x="1" y="1" z="10" spawntime="30" />
 	</spawn>
 	<spawn centerx="1430" centery="409" centerz="10" radius="1">
 		<monster name="White Black" x="0" y="1" z="10" spawntime="30" />
@@ -16276,9 +16261,6 @@
 	<spawn centerx="1443" centery="412" centerz="10" radius="1">
 		<monster name="White Black" x="-1" y="-1" z="10" spawntime="20" />
 		<monster name="White Black" x="0" y="-1" z="10" spawntime="30" />
-	</spawn>
-	<spawn centerx="783" centery="421" centerz="10" radius="1">
-		<monster name="Ancient Dinosaur" x="0" y="0" z="10" spawntime="30" />
 	</spawn>
 	<spawn centerx="378" centery="550" centerz="10" radius="1">
 		<monster name="Purching Bag" x="0" y="0" z="10" spawntime="30" />
@@ -17050,29 +17032,17 @@
 	<spawn centerx="610" centery="374" centerz="11" radius="1">
 		<monster name="Gotenks SSJ3 Quest" x="1" y="1" z="11" spawntime="30" />
 	</spawn>
-	<spawn centerx="791" centery="374" centerz="11" radius="1">
-		<monster name="Ancient Triceratops" x="0" y="1" z="11" spawntime="30" />
-	</spawn>
-	<spawn centerx="798" centery="377" centerz="11" radius="1">
-		<monster name="Ancient Dinosaur" x="0" y="-1" z="11" spawntime="30" />
-	</spawn>
 	<spawn centerx="598" centery="379" centerz="11" radius="1">
 		<monster name="Gotenks SSJ3 Quest" x="1" y="-1" z="11" spawntime="30" />
 	</spawn>
 	<spawn centerx="1418" centery="381" centerz="11" radius="1">
 		<monster name="White Black" x="1" y="0" z="11" spawntime="30" />
 	</spawn>
-	<spawn centerx="803" centery="384" centerz="11" radius="1">
-		<monster name="Triceratops" x="-1" y="0" z="11" spawntime="30" />
-	</spawn>
 	<spawn centerx="584" centery="386" centerz="11" radius="1">
 		<monster name="Gotenks SSJ3 Quest" x="1" y="1" z="11" spawntime="30" />
 	</spawn>
 	<spawn centerx="563" centery="387" centerz="11" radius="1">
 		<monster name="Trunks SSJ2 Quest" x="0" y="1" z="11" spawntime="30" />
-	</spawn>
-	<spawn centerx="810" centery="388" centerz="11" radius="1">
-		<monster name="Ancient Triceratops" x="0" y="-1" z="11" spawntime="30" />
 	</spawn>
 	<spawn centerx="1422" centery="388" centerz="11" radius="1">
 		<monster name="White Black" x="1" y="0" z="11" spawntime="10" />

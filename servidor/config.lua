@@ -31,11 +31,15 @@
 	-- World / Ip / Port
 	worldId = 0
 	ip = "127.0.0.1"
+	--ip = "b-etc.gl.at.ply.gg"
 	worldType = "open"
 	bindOnlyGlobalAddress = false
 	loginPort = 7171
+	--loginPort = 5506
 	gamePort = "7172"
+	--gamePort = "5507"
 	statusPort = 7171
+	--statusPort = 5508
 	loginOnlyWithLoginServer = false
 
 	-- Account manager
